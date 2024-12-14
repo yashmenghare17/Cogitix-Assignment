@@ -1,2 +1,2 @@
 # Cogitix-Assignment
-Assigment on React Language
+Assignment on React Language
